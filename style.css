@@ -1,0 +1,24 @@
+.bodyBackground {
+    background-image: url("img.jpg");
+    
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+  }
+  h1
+  {
+      color: red; 
+      
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
